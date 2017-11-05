@@ -1,6 +1,6 @@
 *
 !.gitignore
-!*.h*
-!*.c*
-!gtest/*
+!*.hpp
+!*.cpp
+!gtest*
 !CMakeLists.txt
